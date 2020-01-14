@@ -27,7 +27,7 @@ namespace WpfApp48
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hi!");
+            MessageBox.Show("Hi!dgg");
         }
     }
 }
